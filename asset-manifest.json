@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Concert/static/css/main.f0599474.chunk.css",
-    "main.js": "/Concert/static/js/main.616f5062.chunk.js",
-    "main.js.map": "/Concert/static/js/main.616f5062.chunk.js.map",
-    "runtime-main.js": "/Concert/static/js/runtime-main.ed7b56b9.js",
-    "runtime-main.js.map": "/Concert/static/js/runtime-main.ed7b56b9.js.map",
-    "static/js/2.1b853601.chunk.js": "/Concert/static/js/2.1b853601.chunk.js",
-    "static/js/2.1b853601.chunk.js.map": "/Concert/static/js/2.1b853601.chunk.js.map",
-    "index.html": "/Concert/index.html",
-    "precache-manifest.1ba71e79da28f90d05242775d198d751.js": "/Concert/precache-manifest.1ba71e79da28f90d05242775d198d751.js",
-    "service-worker.js": "/Concert/service-worker.js",
-    "static/css/main.f0599474.chunk.css.map": "/Concert/static/css/main.f0599474.chunk.css.map",
-    "static/media/sunidhi.jpg": "/Concert/static/media/sunidhi.03f6f02f.jpg",
-    "static/media/sunidhi_three.jpg": "/Concert/static/media/sunidhi_three.3727c615.jpg",
-    "static/media/sunidhi_two.jpg": "/Concert/static/media/sunidhi_two.ca1eab47.jpg"
+    "main.css": "/concert/static/css/main.f0599474.chunk.css",
+    "main.js": "/concert/static/js/main.616f5062.chunk.js",
+    "main.js.map": "/concert/static/js/main.616f5062.chunk.js.map",
+    "runtime-main.js": "/concert/static/js/runtime-main.06c1992e.js",
+    "runtime-main.js.map": "/concert/static/js/runtime-main.06c1992e.js.map",
+    "static/js/2.1b853601.chunk.js": "/concert/static/js/2.1b853601.chunk.js",
+    "static/js/2.1b853601.chunk.js.map": "/concert/static/js/2.1b853601.chunk.js.map",
+    "index.html": "/concert/index.html",
+    "precache-manifest.8fe4f5e2c697964ffdc7769a236b46cd.js": "/concert/precache-manifest.8fe4f5e2c697964ffdc7769a236b46cd.js",
+    "service-worker.js": "/concert/service-worker.js",
+    "static/css/main.f0599474.chunk.css.map": "/concert/static/css/main.f0599474.chunk.css.map",
+    "static/media/sunidhi.jpg": "/concert/static/media/sunidhi.03f6f02f.jpg",
+    "static/media/sunidhi_three.jpg": "/concert/static/media/sunidhi_three.3727c615.jpg",
+    "static/media/sunidhi_two.jpg": "/concert/static/media/sunidhi_two.ca1eab47.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed7b56b9.js",
+    "static/js/runtime-main.06c1992e.js",
     "static/js/2.1b853601.chunk.js",
     "static/css/main.f0599474.chunk.css",
     "static/js/main.616f5062.chunk.js"
