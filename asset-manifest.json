@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/concert/static/css/main.f0599474.chunk.css",
-    "main.js": "/concert/static/js/main.616f5062.chunk.js",
-    "main.js.map": "/concert/static/js/main.616f5062.chunk.js.map",
+    "main.js": "/concert/static/js/main.f70ee0f7.chunk.js",
+    "main.js.map": "/concert/static/js/main.f70ee0f7.chunk.js.map",
     "runtime-main.js": "/concert/static/js/runtime-main.06c1992e.js",
     "runtime-main.js.map": "/concert/static/js/runtime-main.06c1992e.js.map",
     "static/js/2.1b853601.chunk.js": "/concert/static/js/2.1b853601.chunk.js",
     "static/js/2.1b853601.chunk.js.map": "/concert/static/js/2.1b853601.chunk.js.map",
     "index.html": "/concert/index.html",
-    "precache-manifest.8fe4f5e2c697964ffdc7769a236b46cd.js": "/concert/precache-manifest.8fe4f5e2c697964ffdc7769a236b46cd.js",
+    "precache-manifest.4ea8e94b595d2e05f48379693d56d5ff.js": "/concert/precache-manifest.4ea8e94b595d2e05f48379693d56d5ff.js",
     "service-worker.js": "/concert/service-worker.js",
     "static/css/main.f0599474.chunk.css.map": "/concert/static/css/main.f0599474.chunk.css.map",
     "static/media/sunidhi.jpg": "/concert/static/media/sunidhi.03f6f02f.jpg",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.06c1992e.js",
     "static/js/2.1b853601.chunk.js",
     "static/css/main.f0599474.chunk.css",
-    "static/js/main.616f5062.chunk.js"
+    "static/js/main.f70ee0f7.chunk.js"
   ]
 }
